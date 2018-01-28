@@ -13,8 +13,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic t
 
 ### Art Piece 2
 
-<iframe src="https://player.vimeo.com/video/121033081?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+![Jonathan Monaghan](images/monaghan.png?raw=true "Jonathan Monaghan")
 This is **another art piece** that I like. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
@@ -23,8 +22,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic t
 
 ### Art Piece 3
 
-<iframe src="https://player.vimeo.com/video/194090895" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+![Rafael Lozano-Hemmer](images/hemmer.png?raw=true "Rafael Lozano-Hemmer")
 This is **an optional third art piece** that I like. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
